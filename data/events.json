@@ -1,0 +1,1 @@
+[null,{"name":"welcome","temp":"user","event-type":"6","_id":"OiGAN","actions":[{"channel":"4","varName":"","message":"Welcome ${tempVars(\"user\")} to Denver Life RP we hope you enjoy.\nDirect connect. 54.37.162.89\n","storage":"0","varName2":"","name":"Send Message"}]}]
